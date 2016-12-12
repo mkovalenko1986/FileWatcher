@@ -1,0 +1,5 @@
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

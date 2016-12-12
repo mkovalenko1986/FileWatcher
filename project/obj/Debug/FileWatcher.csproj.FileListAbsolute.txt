@@ -1,0 +1,10 @@
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\FileWatcher.exe
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\FileWatcher.pdb
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\FileWatcher.exe
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\FileWatcher.pdb
+c:\users\m.kovalenko\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\FileWatcher.csprojResolveAssemblyReference.cache
+C:\Users\m.kovalenko\Downloads\filewatcher-2016-07-11\filewatcher\project\obj\Debug\FileWatcher.exe
+C:\Users\m.kovalenko\Downloads\filewatcher-2016-07-11\filewatcher\project\obj\Debug\FileWatcher.pdb
+C:\Users\m.kovalenko\Downloads\filewatcher-2016-07-11\filewatcher\project\bin\Debug\FileWatcher.exe
+C:\Users\m.kovalenko\Downloads\filewatcher-2016-07-11\filewatcher\project\bin\Debug\FileWatcher.pdb
+C:\Users\m.kovalenko\Downloads\filewatcher-2016-07-11\filewatcher\project\obj\Debug\FileWatcher.csprojResolveAssemblyReference.cache
